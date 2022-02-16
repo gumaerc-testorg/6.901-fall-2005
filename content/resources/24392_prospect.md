@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Student project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-901-inventions-and-patents-fall-2005/19d64b6cd093db9d5feda9cb23865b92_24392_prospect.pdf
+file: /media/courses/6-901-inventions-and-patents-fall-2005/19d64b6cd093db9d5feda9cb23865b92_24392_prospect.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 24392_prospect.pdf
 uid: 19d64b6c-d093-db9d-5fed-a9cb23865b92
