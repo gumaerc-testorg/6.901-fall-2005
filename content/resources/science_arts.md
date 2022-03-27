@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c929091c-413a-12f0-1176-eb1861802dd2
 resourcetype: Document
 title: science_arts.pdf
 uid: b84f4dc6-2b37-d672-45ef-16d71ca6e659

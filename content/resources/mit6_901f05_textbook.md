@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c1a53462-548b-db76-c21c-3fbf19287e83
 resourcetype: Document
 title: 'Create or Perish: The Case for Inventions and Patents'
 uid: fd4725d9-307f-a290-b833-41a9599392ab

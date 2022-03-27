@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c929091c-413a-12f0-1176-eb1861802dd2
 resourcetype: Document
 title: reimportation.pdf
 uid: c42d6258-5fbc-5e50-6be4-6f91d70adfb9

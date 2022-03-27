@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c929091c-413a-12f0-1176-eb1861802dd2
 resourcetype: Document
 title: 24387_fantasy.pdf
 uid: 7789cd28-fcf3-fd77-0ed5-b5398b694cc7

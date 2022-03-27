@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c929091c-413a-12f0-1176-eb1861802dd2
 resourcetype: Document
 title: 24512_defending.pdf
 uid: ad1b00b1-5bca-3dae-8c79-29e7e270b4c7

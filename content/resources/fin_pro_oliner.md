@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c929091c-413a-12f0-1176-eb1861802dd2
 resourcetype: Document
 title: fin_pro_oliner.pdf
 uid: f4ae5b9e-1cb7-7369-6233-e589c5c31621

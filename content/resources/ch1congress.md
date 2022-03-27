@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8d463265-fd6f-3ff2-4e44-dd5287cecaef
 resourcetype: Document
 title: ch1congress.pdf
 uid: e5ee232d-2990-10fa-c089-6fe980023b5a

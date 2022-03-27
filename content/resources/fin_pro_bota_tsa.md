@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c929091c-413a-12f0-1176-eb1861802dd2
 resourcetype: Document
 title: fin_pro_bota_tsa.pdf
 uid: 718d8c1a-9dde-1bfe-60a7-c87c59f856b4

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c1a53462-548b-db76-c21c-3fbf19287e83
 resourcetype: Document
 title: crate_r_persh19.pdf
 uid: 36c07b2b-cdbc-e885-5e9b-a9e10a3f9764

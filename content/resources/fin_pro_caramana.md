@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c929091c-413a-12f0-1176-eb1861802dd2
 resourcetype: Document
 title: fin_pro_caramana.pdf
 uid: 56480072-51e3-f2e3-4e37-d5058a2239a0

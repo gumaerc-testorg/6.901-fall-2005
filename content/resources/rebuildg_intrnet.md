@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c929091c-413a-12f0-1176-eb1861802dd2
 resourcetype: Document
 title: rebuildg_intrnet.pdf
 uid: 173a417f-d4a4-46d5-5ccb-087a78f04db5
