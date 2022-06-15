@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-901-inventions-and-patents-fall-2005/8acf1e84d5ca3f00b634d297ce4ce6ee_chapter3.pdf
+file: /courses/6-901-inventions-and-patents-fall-2005/8acf1e84d5ca3f00b634d297ce4ce6ee_chapter3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
