@@ -6,6 +6,7 @@ file: /courses/6-901-inventions-and-patents-fall-2005/a705161f9c96d5c143749a6c35
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: death_cracker.pdf
 uid: a705161f-9c96-d5c1-4374-9a6c3544ee2e
 ---
 This resource includes information on the failure of the DMCA and how digital copyright can Be saved, case studies, trends, and proposal.
-

@@ -5,6 +5,7 @@ file: /courses/6-901-inventions-and-patents-fall-2005/69a4daaa8b00a4153e2ae5ef0a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

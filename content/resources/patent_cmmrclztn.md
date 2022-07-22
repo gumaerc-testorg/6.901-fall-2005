@@ -6,6 +6,7 @@ file: /courses/6-901-inventions-and-patents-fall-2005/28aa87312a078ede1343a0e670
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: patent_cmmrclztn.pdf
 uid: 28aa8731-2a07-8ede-1343-a0e6708a2445
 ---
 This resource talks about patents being commercialized along with the references.
-

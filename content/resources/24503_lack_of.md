@@ -5,6 +5,7 @@ file: /courses/6-901-inventions-and-patents-fall-2005/215efa352bdce22d3aff6d2a00
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 24503_lack_of.pdf
 uid: 215efa35-2bdc-e22d-3aff-6d2a003fec27
 ---
 Student project.
-

@@ -6,6 +6,7 @@ file: /courses/6-901-inventions-and-patents-fall-2005/5e1ce3724640b1eb90b4e3965b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ch3.pdf
 uid: 5e1ce372-4640-b1eb-90b4-e3965b46280f
 ---
 This resource contains chapter 3 of the course textbook, 'Create or Perish', by Dr. Robert Rines.
-

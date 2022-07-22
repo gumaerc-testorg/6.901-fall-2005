@@ -6,6 +6,7 @@ file: /courses/6-901-inventions-and-patents-fall-2005/b84f4dc62b37d67245ef16d71c
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: science_arts.pdf
 uid: b84f4dc6-2b37-d672-45ef-16d71ca6e659
 ---
 This resource includes information on patent strategies, along with suggestions and ideas, and references.
-

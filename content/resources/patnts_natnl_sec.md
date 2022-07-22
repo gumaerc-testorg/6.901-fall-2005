@@ -6,6 +6,7 @@ file: /courses/6-901-inventions-and-patents-fall-2005/fd0dc243fd1a8a97ca4ba2abfe
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: patnts_natnl_sec.pdf
 uid: fd0dc243-fd1a-8a97-ca4b-a2abfe3b0f02
 ---
 This resource talks about the world wars, post war legislation sections, current crisis,  recommendations, and appendix A.
-
