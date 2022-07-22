@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The Pedagogy section contains course pedagogy by Dr. Rines.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Pedagogy
 uid: 19569256-7bfd-2b6d-68b0-b74b078e4edc
 ---
@@ -9,7 +12,7 @@ Course Pedagogy by Dr. Rines
 
 In the leap from my undergraduate Institute-wide elective course on Inventions and Patents (6.901, 3.172 and 1.652) to the graduate course (6.931) on the development of inventions and creative ideas into commercialization, I have challenged my students to concern themselves with problem areas of their own personal interests, and to do original research anent to submitting analysis and thinking for class discussion, leading to creating practical proposals for possibly addressing these problems.
 
-In _Create or Perish: The Case for Inventions and Patents_ (downloadable textbook in the [readings]({{< baseurl >}}/pages/readings) section) there is presented a view of the US patent system in trouble from the 1950s on, struggling to be meaningful in the United States under a then generally hostile environment sanctioned by the federal courts that, indeed, came to question whether patents were really any longer needed to encourage invention.
+In _Create or Perish: The Case for Inventions and Patents_ (downloadable textbook in the {{% resource_link c1a53462-548b-db76-c21c-3fbf19287e83 "readings" %}} section) there is presented a view of the US patent system in trouble from the 1950s on, struggling to be meaningful in the United States under a then generally hostile environment sanctioned by the federal courts that, indeed, came to question whether patents were really any longer needed to encourage invention.
 
 This led to the encouragement of wide spread infringement, and opening up our technology to Japan and Europe, and led to a waning interest in the utility of a US patent system. This created a growingly impossible climate for the independent inventor—that prodigious group which accounts for much of our breakthrough invention.
 
@@ -25,7 +28,7 @@ I leave _Create or Perish_ as it stands, as a historical document to the then sa
 
 The direction of what is currently presented here, however, is not such an update, but, rather, the work of my students and classes in exploring systemic world-wide problem areas involving intellectual property and creating new ideas for trying to solve these problems, ranging from worldwide piracy to world health needs and to the revolution thrust upon us by radically new technologies—software, nanotechnology, solid state science, and microbiology.
 
-We have made minimal effort to edit our students' results; and having their permission for publication, present them in the [projects]({{< baseurl >}}/pages/projects) section in their own words, as the creative-thinking sparks in my current classes in this vast range of social problems.
+We have made minimal effort to edit our students' results; and having their permission for publication, present them in the {{% resource_link c929091c-413a-12f0-1176-eb1861802dd2 "projects" %}} section in their own words, as the creative-thinking sparks in my current classes in this vast range of social problems.
 
 These materials have been divided into seven categories (I-VII), with the student authors identified with their respective papers, the papers presenting background study and original suggestions for possible improvement by that cross-section of my students—half, incidentally, with parentage but recently from foreign lands, strongly from the Far East—affording an opportunity for a technically well-educated young America to speak out.
 

@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: The Assignments section refer to the course textbook, Create or Perish,
+  by Dr. Robert Rines.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8d463265-fd6f-3ff2-4e44-dd5287cecaef
 ---
 
-The assignments below are for 6.901, the undergraduate version of the course. Some of the assignments refer to the course textbook, _Create or Perish_, by Dr. Robert Rines, which is available in its entirety in the [readings]({{< baseurl >}}/pages/readings) section.
+The assignments below are for 6.901, the undergraduate version of the course. Some of the assignments refer to the course textbook, _Create or Perish_, by Dr. Robert Rines, which is available in its entirety in the {{% resource_link c1a53462-548b-db76-c21c-3fbf19287e83 "readings" %}} section.
 
 Problem Set 1
 -------------
@@ -35,7 +40,7 @@ Problem Set 3
 Problem Set 4
 -------------
 
-*   Read Chapter 4 of _Create or Perish_ and read the entire document on a New Patent System: Rines, Robert. "America's Different Patent System: The Reason The U.S. Outperforms The World, A Report To The 107th Congress." May 9, 2002. ([PDF]({{< baseurl >}}/resources/ch1congress))
+*   Read Chapter 4 of _Create or Perish_ and read the entire document on a New Patent System: Rines, Robert. "America's Different Patent System: The Reason The U.S. Outperforms The World, A Report To The 107{{< sup "th" >}} Congress." May 9, 2002. ({{% resource_link e5ee232d-2990-10fa-c089-6fe980023b5a "PDF" %}})
 *   Recently there has been increased discussion over the rights surrounding copyrights. Use the readings and your own assessment to determine what copyrights confer or should confer upon their holders.
 *   Think about questions such as:
     *   Why copyrights are relevant versus patents?
@@ -45,7 +50,7 @@ Problem Set 4
 Problem Set 5
 -------------
 
-*   Make sure you have read chapters 1-4 of _Create or Perish_ and read the entire document on a New Patent System: Rines, Robert. "America's Different Patent System: The Reason The U.S. Outperforms The World, A Report To The 107th Congress." May 9, 2002. ([PDF]({{< baseurl >}}/resources/ch1congress))
+*   Make sure you have read chapters 1-4 of _Create or Perish_ and read the entire document on a New Patent System: Rines, Robert. "America's Different Patent System: The Reason The U.S. Outperforms The World, A Report To The 107{{< sup "th" >}} Congress." May 9, 2002. ({{% resource_link e5ee232d-2990-10fa-c089-6fe980023b5a "PDF" %}})
 *   This week's discussion relates to patenting emerging areas of science. Discuss the following topics:
     *   Should the U.S. allow patents for genetically modified animals and/or living organisms?
     *   Should the U.S. Supreme Court rethink its "anything under the sun" policy regarding patentability?

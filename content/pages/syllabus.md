@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The Syllabus section contains course description, and words about the
+  instructor for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4279af9c-f196-d3e9-6e90-30391fdd102d
 ---
