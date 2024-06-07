@@ -2,6 +2,7 @@
 content_type: resource
 description: Student project.
 file: /courses/6-901-inventions-and-patents-fall-2005/14f55901e05b3938c4331c89abffe7c6_24578_ip_china.pdf
+file_size: 1161201
 file_type: application/pdf
 learning_resource_types:
 - Projects

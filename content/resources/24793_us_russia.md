@@ -2,6 +2,7 @@
 content_type: resource
 description: Student project.
 file: /courses/6-901-inventions-and-patents-fall-2005/39c826fae08983ab5f15a0c4e1091cca_24793_us_russia.pdf
+file_size: 4466705
 file_type: application/pdf
 learning_resource_types:
 - Projects

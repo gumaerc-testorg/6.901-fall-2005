@@ -4,6 +4,7 @@ description: This resource includes information on globalization which has force
   India and China to reform their intellectual property stance to become competitive
   in the new global economy, chinese patent system, conclusion along with the references.
 file: /courses/6-901-inventions-and-patents-fall-2005/718d8c1a9dde1bfe60a7c87c59f856b4_fin_pro_bota_tsa.pdf
+file_size: 62924
 file_type: application/pdf
 learning_resource_types:
 - Projects

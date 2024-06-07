@@ -4,6 +4,7 @@ description: This resource includes information on file sharing, moral issue, ec
   issue, basis of suits, litigation, who benefits from litigation along with the summary
   and end notes.
 file: /courses/6-901-inventions-and-patents-fall-2005/15aeb16f12534ffa2ad332f7a6cc1770_online_fileshrng.pdf
+file_size: 141952
 file_type: application/pdf
 learning_resource_types:
 - Projects
