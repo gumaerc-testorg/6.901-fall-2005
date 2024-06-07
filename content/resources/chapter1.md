@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-901-inventions-and-patents-fall-2005/27ca0068c117ab7338798efc2f7d0ac5_chapter1.pdf
+file_size: 347036
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -2,6 +2,7 @@
 content_type: resource
 description: Student project.
 file: /courses/6-901-inventions-and-patents-fall-2005/ad1b00b15bca3dae8c7929e7e270b4c7_24512_defending.pdf
+file_size: 252430
 file_type: application/pdf
 learning_resource_types:
 - Projects
