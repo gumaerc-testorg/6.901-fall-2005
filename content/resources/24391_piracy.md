@@ -2,6 +2,7 @@
 content_type: resource
 description: Student project.
 file: /courses/6-901-inventions-and-patents-fall-2005/555684ee01ff7fba90478b5f7422818a_24391_piracy.pdf
+file_size: 573154
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: Student project.
 file: /courses/6-901-inventions-and-patents-fall-2005/215efa352bdce22d3aff6d2a003fec27_24503_lack_of.pdf
+file_size: 250132
 file_type: application/pdf
 learning_resource_types:
 - Projects

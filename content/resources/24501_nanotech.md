@@ -2,6 +2,7 @@
 content_type: resource
 description: Student project.
 file: /courses/6-901-inventions-and-patents-fall-2005/a5a6611023e84e30073ccce5b52ced73_24501_nanotech.pdf
+file_size: 114996
 file_type: application/pdf
 learning_resource_types:
 - Projects

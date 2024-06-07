@@ -2,6 +2,7 @@
 content_type: resource
 description: Student project.
 file: /courses/6-901-inventions-and-patents-fall-2005/581eebd5c6ecd81c404514c05c076416_24507_nanobio.pdf
+file_size: 67250
 file_type: application/pdf
 learning_resource_types:
 - Projects

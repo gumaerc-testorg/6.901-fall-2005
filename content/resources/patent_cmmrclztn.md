@@ -3,6 +3,7 @@ content_type: resource
 description: This resource talks about patents being commercialized along with the
   references.
 file: /courses/6-901-inventions-and-patents-fall-2005/28aa87312a078ede1343a0e6708a2445_patent_cmmrclztn.pdf
+file_size: 94696
 file_type: application/pdf
 learning_resource_types:
 - Projects
