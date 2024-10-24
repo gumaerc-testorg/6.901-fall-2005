@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-901-inventions-and-patents-fall-2005/69a4daaa8b00a4153e2ae5ef0a5cbdb6_chapter7.pdf
+file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/69a4daaa8b00a4153e2ae5ef0a5cbdb6_chapter7.pdf
 file_size: 347423
 file_type: application/pdf
 learning_resource_types:

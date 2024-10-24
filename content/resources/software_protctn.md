@@ -3,7 +3,7 @@ content_type: resource
 description: This resource talks about software patents, controversy, landmark cases,
   open source movement, commonly suggested solutions, and conclusion along with the
   work cited.
-file: /courses/6-901-inventions-and-patents-fall-2005/fad9d10d6f2d70cde818fd4d3b6bfa9f_software_protctn.pdf
+file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/fad9d10d6f2d70cde818fd4d3b6bfa9f_software_protctn.pdf
 file_size: 49498
 file_type: application/pdf
 learning_resource_types:

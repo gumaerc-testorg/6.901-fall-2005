@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-901-inventions-and-patents-fall-2005/fd4725d9307fa290b83341a9599392ab_MIT6_901F05_textbook.pdf
+file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/fd4725d9307fa290b83341a9599392ab_MIT6_901F05_textbook.pdf
 file_size: 1873667
 file_type: application/pdf
 learning_resource_types:
