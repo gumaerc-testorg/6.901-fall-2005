@@ -30,8 +30,6 @@ The following links point to useful sources of information on current issues in 
 
 [ILRG's United States Federal & State Courts](http://www.ilrg.com/caselaw/)
 
-[Software Patent Institute](http://www.spi.org/)
-
 [Patent Resources Group, INC. - Home](http://www.patentresources.com/)
 
 [U.S. Patent Law](http://www.law.cornell.edu/)
@@ -47,5 +45,3 @@ The following links point to useful sources of information on current issues in 
 [Academy of Applied Science](http://www.aas-world.org/)
 
 [National Inventors Hall of Fame](http://www.invent.org/)
-
-[Franklin Pierce Law Center](http://www.piercelaw.edu/)
