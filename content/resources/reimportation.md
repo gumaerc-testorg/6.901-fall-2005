@@ -3,7 +3,7 @@ content_type: resource
 description: This resource reflect on what happened in the 108th Congress and determine
   the roadblocks that prevented much of the proposed legislation from succeeding along
   with the bibliography.
-file: /courses/6-901-inventions-and-patents-fall-2005/c42d62585fbc5e506be46f91d70adfb9_reimportation.pdf
+file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/c42d62585fbc5e506be46f91d70adfb9_reimportation.pdf
 file_size: 154380
 file_type: application/pdf
 learning_resource_types:
