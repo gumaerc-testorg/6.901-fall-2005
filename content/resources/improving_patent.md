@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource talks about intellectual property rights, reward system
   and optional reward system, model, proposed system, and conclusion.
-file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/cc3cc2a68a36fbd1fa0123fdf269bf08_improving_patent.pdf
+file: /courses/6-901-inventions-and-patents-fall-2005/cc3cc2a68a36fbd1fa0123fdf269bf08_improving_patent.pdf
 file_size: 146352
 file_type: application/pdf
 learning_resource_types:

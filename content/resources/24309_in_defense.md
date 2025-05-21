@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student project.
-file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/e8d780a0aca7b160ef0b489f4cfa0af9_24309_in_defense.pdf
+file: /courses/6-901-inventions-and-patents-fall-2005/e8d780a0aca7b160ef0b489f4cfa0af9_24309_in_defense.pdf
 file_size: 37532
 file_type: application/pdf
 learning_resource_types:

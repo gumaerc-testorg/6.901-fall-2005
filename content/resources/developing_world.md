@@ -3,7 +3,7 @@ content_type: resource
 description: This resource talks about information and communication technologies,
   agricultural productivity, information dissemination, challenges in using ICTs,
   ICT enabled developments, stakeholders, and conclusion.
-file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/98a86ea89fa62bfda6b431b28bb976e6_developing_world.pdf
+file: /courses/6-901-inventions-and-patents-fall-2005/98a86ea89fa62bfda6b431b28bb976e6_developing_world.pdf
 file_size: 154891
 file_type: application/pdf
 learning_resource_types:

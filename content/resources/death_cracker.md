@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on the failure of the DMCA and how
   digital copyright can Be saved, case studies, trends, and proposal.
-file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/a705161f9c96d5c143749a6c3544ee2e_death_cracker.pdf
+file: /courses/6-901-inventions-and-patents-fall-2005/a705161f9c96d5c143749a6c3544ee2e_death_cracker.pdf
 file_size: 183956
 file_type: application/pdf
 learning_resource_types:

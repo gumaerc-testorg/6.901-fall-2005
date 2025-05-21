@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on patent strategies, along with suggestions
   and ideas, and references.
-file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/b84f4dc62b37d67245ef16d71ca6e659_science_arts.pdf
+file: /courses/6-901-inventions-and-patents-fall-2005/b84f4dc62b37d67245ef16d71ca6e659_science_arts.pdf
 file_size: 126636
 file_type: application/pdf
 learning_resource_types:
