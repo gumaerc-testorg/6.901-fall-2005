@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains chapter 1 of the course textbook, 'Create or Perish',
   by Dr. Robert Rines.
-file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/66104bd0db25bae206214f1fdcef11d3_crete_r_pershch1.pdf
+file: /courses/6-901-inventions-and-patents-fall-2005/66104bd0db25bae206214f1fdcef11d3_crete_r_pershch1.pdf
 file_size: 277264
 file_type: application/pdf
 learning_resource_types:

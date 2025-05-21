@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student project.
-file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/1fd4e714c5a13ebba25c3485be50e229_24390_medical.pdf
+file: /courses/6-901-inventions-and-patents-fall-2005/1fd4e714c5a13ebba25c3485be50e229_24390_medical.pdf
 file_size: 394287
 file_type: application/pdf
 learning_resource_types:

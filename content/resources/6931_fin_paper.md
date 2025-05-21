@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource talks about patents, motivation, data collection and analysis,
   conclusions and next steps.
-file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/9e94a3b0b39b491c08bf88581a8f854a_6931_fin_paper.pdf
+file: /courses/6-901-inventions-and-patents-fall-2005/9e94a3b0b39b491c08bf88581a8f854a_6931_fin_paper.pdf
 file_size: 46703
 file_type: application/pdf
 learning_resource_types:

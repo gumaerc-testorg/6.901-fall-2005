@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student project.
-file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/80ed911939989b75822f6eac7d042607_24398_conceal.pdf
+file: /courses/6-901-inventions-and-patents-fall-2005/80ed911939989b75822f6eac7d042607_24398_conceal.pdf
 file_size: 774979
 file_type: application/pdf
 learning_resource_types:
