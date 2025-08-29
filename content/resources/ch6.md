@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains chapter 6 of the course textbook, 'Create or Perish',
   by Dr. Robert Rines.
-file: /courses/6-901-inventions-and-patents-fall-2005/ff8ec9a853206679406c4dc5e50561e9_ch6.pdf
+file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/ff8ec9a853206679406c4dc5e50561e9_ch6.pdf
 file_size: 729332
 file_type: application/pdf
 learning_resource_types:
