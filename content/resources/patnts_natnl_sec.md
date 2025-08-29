@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource talks about the world wars, post war legislation sections,
   current crisis,  recommendations, and appendix A.
-file: /courses/6-901-inventions-and-patents-fall-2005/fd0dc243fd1a8a97ca4ba2abfe3b0f02_patnts_natnl_sec.pdf
+file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/fd0dc243fd1a8a97ca4ba2abfe3b0f02_patnts_natnl_sec.pdf
 file_size: 198993
 file_type: application/pdf
 learning_resource_types:

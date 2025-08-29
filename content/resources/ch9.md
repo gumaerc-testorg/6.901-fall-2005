@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains chapter 9 of the course textbook, 'Create or Perish',
   by Dr. Robert Rines.
-file: /courses/6-901-inventions-and-patents-fall-2005/557d24f6ed271ad67ac770813640cb42_ch9.pdf
+file: /ol-ocw-studio-app/courses/6-901-inventions-and-patents-fall-2005/557d24f6ed271ad67ac770813640cb42_ch9.pdf
 file_size: 290029
 file_type: application/pdf
 learning_resource_types:
