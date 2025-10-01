@@ -12,36 +12,36 @@ The following links point to useful sources of information on current issues in 
 
 ## **Legal/Patent**
 
-[U.S. Patent and Trademark Office](http://www.uspto.gov/): Current news and policies regarding the USPTO. Itemization of fees and services. Includes an (800) telephone number for inquiries.
+{{% resource_link "c5fa8603-ad36-4d80-bf32-bf1c59e82444" "U.S. Patent and Trademark Office" %}}: Current news and policies regarding the USPTO. Itemization of fees and services. Includes an (800) telephone number for inquiries.
 
 ## **Venture Capital**
 
-[National Venture Capital Association](http://www.nvca.org/): Organization "dedicated to defining, serving and representing the interests of the venture capital and private equity industries." Links to member companies and related sites, publications and events calendar.
+{{% resource_link "8721fe43-e0c3-4ae2-9d16-ba77f2964250" "National Venture Capital Association" %}}: Organization "dedicated to defining, serving and representing the interests of the venture capital and private equity industries." Links to member companies and related sites, publications and events calendar.
 
-[American Entrepreneurs for Economic Growth](http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=11480133): Organization focuses "on the public policy issues that affect emerging growth companies." Policy section includes recent activity (victories) and involvement. Links to entrepreneurship resources, publications and events calendar.
+{{% resource_link "0e393c68-3e1d-4e40-aa63-338c795764ef" "American Entrepreneurs for Economic Growth" %}}: Organization focuses "on the public policy issues that affect emerging growth companies." Policy section includes recent activity (victories) and involvement. Links to entrepreneurship resources, publications and events calendar.
 
 ## **MIT**
 
-[MIT Entrepreneurship Center](http://entrepreneurship.mit.edu/): Information on the history of entrepreneurship at MIT, class offerings, and how to get involved with the Center and its activities.
+{{% resource_link "1b405940-1c20-48ba-aca5-6cdd6279ed37" "MIT Entrepreneurship Center" %}}: Information on the history of entrepreneurship at MIT, class offerings, and how to get involved with the Center and its activities.
 
-[MIT $100K Entrepreneurship Competition](https://www.mit100k.org/): An annual competition to develop new business plans, now in its ninth year. Links for joining the mailing list and becoming a sponsor.
+{{% resource_link "35539bed-c3cf-4407-973e-31a6cb855a51" "MIT $100K Entrepreneurship Competition" %}}: An annual competition to develop new business plans, now in its ninth year. Links for joining the mailing list and becoming a sponsor.
 
 ## **Links Contributed by 6.901/6.931 Students**
 
-[ILRG's United States Federal & State Courts](http://www.ilrg.com/caselaw/)
+{{% resource_link "30dc9532-f477-4f69-9877-83b7b96003d1" "ILRG's United States Federal & State Courts" %}}
 
-[Patent Resources Group, INC. - Home](http://www.patentresources.com/)
+{{% resource_link "83803223-261d-433a-94aa-eec069f88442" "Patent Resources Group, INC. - Home" %}}
 
-[U.S. Patent Law](http://www.law.cornell.edu/)
+{{% resource_link "8a8aa74d-2b22-4f78-9e71-ce1ca9e4182f" "U.S. Patent Law" %}}
 
 ## **Other Links**
 
-[Harvard Journal of Law and Technology](http://jolt.law.harvard.edu/)
+{{% resource_link "07964dd9-79f5-4fb0-86ff-1bec0fa18225" "Harvard Journal of Law and Technology" %}}
 
-[STO's Internet Patent Search System](http://www.ibiblio.org/patents/intropat.html)
+{{% resource_link "ee591be7-746d-4f63-91c8-d3b2f512e933" "STO's Internet Patent Search System" %}}
 
-[Inventors Digest](http://www.inventorsdigest.com/)
+{{% resource_link "67a38955-0e93-42df-8269-a237a979a2c8" "Inventors Digest" %}}
 
-[Academy of Applied Science](http://www.aas-world.org/)
+{{% resource_link "2c3c68bc-7025-43c5-917a-0a57db97853f" "Academy of Applied Science" %}}
 
-[National Inventors Hall of Fame](http://www.invent.org/)
+{{% resource_link "361a6fb8-f366-41af-a684-74c3bec68769" "National Inventors Hall of Fame" %}}
